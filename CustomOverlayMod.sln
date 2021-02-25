@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomOverlayMod", "CustomOverlayMod\CustomOverlayMod.csproj", "{A576A24C-FD44-4110-A278-AF9C0A9FDCD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A576A24C-FD44-4110-A278-AF9C0A9FDCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A576A24C-FD44-4110-A278-AF9C0A9FDCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A576A24C-FD44-4110-A278-AF9C0A9FDCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A576A24C-FD44-4110-A278-AF9C0A9FDCD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A504D8-8C90-4469-9AA4-2A1B9C31DDE8}
+	EndGlobalSection
+EndGlobal
